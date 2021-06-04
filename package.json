@@ -1,0 +1,24 @@
+{
+    "name": "electron-book",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/btea/electron-book.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/btea/electron-book/issues"
+    },
+    "homepage": "https://github.com/btea/electron-book#readme",
+    "devDependencies": {
+        "electron": "^13.1.0"
+    }
+}
