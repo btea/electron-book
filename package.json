@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/btea/electron-book#readme",
     "devDependencies": {
-        "electron": "13.1.0"
+        "electron": "13.6.3"
     }
 }
